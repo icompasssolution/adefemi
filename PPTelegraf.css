@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'PPTelegraf';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/icompasssolution/adefemi/PPTelegraf-Regular.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'PPTelegraf';
+  font-style: normal;
+  font-weight: 800;
+  src: url(https://cdn.jsdelivr.net/gh/icompasssolution/adefemi/PPTelegraf-UltraBold.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'PPTelegraf';
+  font-style: normal;
+  font-weight: 200;
+  src: url(https://cdn.jsdelivr.net/gh/icompasssolution/adefemi/Moose%20Fonts/PPTelegraf-UltraLight.otf) format('opentype');
