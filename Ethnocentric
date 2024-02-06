@@ -1,1 +1,90 @@
+@font-face {
+  font-family: 'EthnocentricBk';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/icompasssolution/adefemi/EthnocentricBk-Italic.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'EthnocentricBk';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/icompasssolution/adefemi/EthnocentricBk-Regular.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'EthnocentricEl';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/icompasssolution/adefemi/EthnocentricEl-Italic.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'EthnocentricEl';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/icompasssolution/adefemi/EthnocentricEl-Regular.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'EthnocentricLt';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/icompasssolution/adefemi/EthnocentricLt-Italic.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'EthnocentricLt';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/icompasssolution/adefemi/EthnocentricLt-Regular.otf) format('opentype');
+}
+@font-face {
+  font-family: 'EthnocentricRg';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://cdn.jsdelivr.net/gh/icompasssolution/adefemi/EthnocentricRg-BoldItalic.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'EthnocentricRg';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://cdn.jsdelivr.net/gh/icompasssolution/adefemi/EthnocentricRg-Bold.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'EthnocentricRg';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/icompasssolution/adefemi/EthnocentricRg-Italic.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'EthnocentricRg';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/icompasssolution/adefemi/EthnocentricRg-Regular.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'EthnocentricUl';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/icompasssolution/adefemi/EthnocentricUl-Italic.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'EthnocentricUl';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/icompasssolution/adefemi/EthnocentricUl-Regular.otf) format('opentype');
+}
+
+
+
+
+
+
+
 
